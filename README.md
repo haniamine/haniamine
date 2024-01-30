@@ -57,9 +57,9 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=haniamine)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Code Wars
-Profile  (<https://www.codewars.com/users/kaiizer>)
+Profile  (<https://www.codewars.com/users/Kaiizer>)
 
-<img src="https://www.codewars.com/users/kaiizer/badges/large">
+<img src="https://www.codewars.com/users/Kaiizer/badges/large">
 
 <!--
 **haniamine/haniamine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
