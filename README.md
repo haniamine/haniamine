@@ -6,6 +6,11 @@
 📫 You can contact me via email at haniamiine[at]gmail.com.<br>
 🌟 Thanks for stopping by, and happy coding!<br>
 
+### Competitive Programming
+Code Wars profile  (<https://www.codewars.com/users/Kaiizer>)
+
+<img src="https://www.codewars.com/users/Kaiizer/badges/large">
+
 ### Programming Langages
 
 <div style="display:flex">
@@ -55,11 +60,6 @@
 [](https://komarev.com/ghpvc/?username=haniamine&color=green)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=haniamine)](https://github.com/anuraghazra/github-readme-stats)
-
-### Code Wars
-Profile  (<https://www.codewars.com/users/Kaiizer>)
-
-<img src="https://www.codewars.com/users/Kaiizer/badges/large">
 
 <!--
 **haniamine/haniamine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
