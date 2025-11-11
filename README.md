@@ -1,77 +1,48 @@
-### Welcome to My GitHub! 🌎
+# 👋 Hi, I'm Amine Hani  
 
-👋 Hey there! I'm Amine, and I'm passionate about Computer Science.<br>
-🚀 I'm a FullStack Web Enginner with a strong background in React JS and a love for open-source development.<br>
-🌱 My journey in the tech world is an ongoing adventure, and I'm always learning and growing. If you're interested in collaborating, have feedback, or just want to connect, feel free to reach out.<br>
-📫 You can contact me via email at haniamiine[at]gmail.com.<br>
-🌟 Thanks for stopping by, and happy coding!<br>
+### 💻 Software Engineer | Full Stack (React, TypeScript, Spring Boot)
 
-### Competitive Programming
-Code Wars profile  (<https://www.codewars.com/users/Kaiizer>)
+I’m a **product-minded software engineer** with 4+ years of experience designing and scaling high-impact web platforms in **finance, trade, and cybersecurity**.  
+From real-time trade dashboards to AI-driven pricing engines, I build systems that are **reliable, maintainable, and user-focused**, because great tech should make complexity feel simple.
 
-<img src="https://www.codewars.com/users/Kaiizer/badges/large">
+---
 
-### Programming Langages
+### ⚡ What I’m Excited About
+- Building **end-to-end product features** that merge solid engineering with intuitive UX  
+- Exploring **AI integrations** (LLMs, predictive analytics, smart dashboards)  
+- Contributing to **modern TypeScript ecosystems** and clean architecture design  
 
-<div style="display:flex">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  width="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50"  />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"  width="50" />
-</div>
+---
 
-### Frameworks
+### 🧠 Competitive Programming
+[![Codewars](https://www.codewars.com/users/Kaiizer/badges/large)](https://www.codewars.com/users/Kaiizer)
 
-<div style="display:flex">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"  width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"  width="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"  width="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" width="50"/>
+---
 
-</div>
+### 🧩 Core Expertise
+- **Frontend:** React, Next.js, Redux Toolkit, Tailwind CSS, Framer Motion  
+- **Backend:** Spring Boot, NestJS, Node.js, tRPC, RabbitMQ  
+- **Databases:** PostgreSQL, Oracle, Denodo, MongoDB  
+- **DevOps & Tools:** Docker, Keycloak, GitHub Actions, Liquibase, Figma, Kibana  
 
-### Databases
-<div style="display:flex">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"  width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" /> 
-</div>      
+---
 
-### Tools
-<div style="display:flex">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"  width="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"  width="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"  width="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg"   width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"  width="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"  width="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"  width="50" />
-</div>
+### 🚀 Career Highlights
+- **Crédit Agricole CIB (Paris):** Rebuilt a trade finance reporting platform with real-time dashboards, multi-source data aggregation, and AI-based pricing estimation for traders.  
+- **Société Générale:** Designed a cybersecurity incident management platform (microservices + React), integrating Keycloak, RabbitMQ, and CI/CD pipelines.  
+- **Attijariwafa Bank:** Developed high-volume batch engines and RippleNet payment monitoring tools for international transfers.  
 
-### Fun Stats
-[](https://komarev.com/ghpvc/?username=haniamine&color=green)
+Each project sharpened my ability to **ship production-grade software**, handle **complex data flows**, and deliver **clean, testable, scalable code**.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=haniamine)](https://github.com/anuraghazra/github-readme-stats)
+---
 
-<!--
-**haniamine/haniamine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📬 Get in Touch
+📧 **haniamiine@gmail.com**  
+💼 [LinkedIn](https://linkedin.com/in/haniamine)  
+💻 [GitHub](https://github.com/haniamine)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> “I care about writing code that lasts, scalable today, readable tomorrow.”  
+
+[![Amine's GitHub stats](https://github-readme-stats.vercel.app/api?username=haniamine&show_icons=true&theme=transparent&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
